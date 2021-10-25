@@ -1,0 +1,15 @@
+{
+  "name": "Weather",
+  "description": "Gets the current weather in a given city",
+  "author": "Mark Probst <mark@glideapps.com>",
+  "params": [
+    {
+      "name": "html content",
+      "displayName": "html content",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
